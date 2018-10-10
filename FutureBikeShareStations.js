@@ -1,3 +1,5 @@
+eqfeed_callback( {
+
 {
   "type" : "FeatureCollection",
   "crs" : {
@@ -159,3 +161,7 @@
     }
   ]
 }
+
+}
+
+);
